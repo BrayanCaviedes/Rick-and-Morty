@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FUW6/zSo76s=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\CaviedeB\\source\\repos\\WEBAPI_Rick_Morty\\WEBAPI_Rick_Morty\\WEBAPI_Rick_Morty.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\CaviedeB\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
